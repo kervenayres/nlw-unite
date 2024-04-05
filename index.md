@@ -1,4 +1,3 @@
-// variaveis
 const = instrução para criar uma variavel
 
 let participante = [
