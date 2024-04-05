@@ -1,4 +1,9 @@
 const = instrução para criar uma variavel
+sinal de = atribuição de valor
+
+// tipos de dados
+  // number
+  // string
 
 let participante = [
   {
