@@ -7,20 +7,20 @@ let participantes = [
     dataChekIn: new Date(2024, 2, 22, 22, 00)
   },
   {
-    nome: "Maria Silva",
-    email: "maria.silva@example.com",
+    nome: "Raphael Oliveira",
+    email: "dundaswest@gmail.com",
     dataInscricao: new Date(2024, 2, 22, 19, 30),
     dataChekIn: null
   },
   {
-    nome: "João Santos",
-    email: "joao.santos@example.com",
+    nome: "Nicolas Flmael",
+    email: "nicolasmazepin@gmail.com",
     dataInscricao: new Date(2024, 2, 22, 20, 00),
     dataChekIn: new Date(2024, 2, 22, 22, 20)
   },
   {
-    nome: "Ana Oliveira",
-    email: "ana.oliveira@example.com",
+    nome: "Ana Clara",
+    email: "anaclara@gmail.com",
     dataInscricao: new Date(2024, 2, 22, 20, 15),
     dataChekIn: new Date(2024, 2, 22, 22, 30)
   },
