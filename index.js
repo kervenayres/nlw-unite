@@ -129,7 +129,7 @@ const adicionarParticipante = (event) => {
   )
 
   if(participanteExiste) {
-    alert('Email adress already in use.')
+    alert('Email address already in use.')
     return
   }
   
